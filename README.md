@@ -29,6 +29,11 @@ This repository contains a jupyter notebook that takes a name and age input, and
 - We reserve the right to ban anyone for violation of our CoC, reject a pull request, or take necessary action to revert changes on our software if the CoC is violated.
 - We want to make sure this project is sustainable and usable for all, no form of hate or inequality will be tolerated. 
 
+# Feature Request
+- Options for the user to see their age in other time forms (milliseconds, minutes, hours, etc.)
+- Calcualte the time between 2 events (instead of just today)
+- GUI for easier use 
+
 # Misc. Information
 ## Group Members
 - Pratham Patel
