@@ -13,7 +13,7 @@ This repository contains a jupyter notebook that takes a name and age input, and
 
 # License and Bugs
 ## License 
-- This project uses a MIT license, more information found [Here](https://github.com/patelpratham11/CMPINF0010_VC/blob/main/LICENSE).
+- This project uses a MIT license, more information found [here](https://github.com/patelpratham11/CMPINF0010_VC/blob/main/LICENSE).
 - We decided to use a MIT License, since that would allow private and public use, modification, and overall collaboration.
 - We wanted to make sure the program could grow and be scaled to whatever the user needed, and therefore the MIT License allows for the greatest flexibility for general growth and development. 
 
@@ -22,10 +22,12 @@ This repository contains a jupyter notebook that takes a name and age input, and
 - Please follow proper QA-guidelines and write bug reports in the same format.
 
 ## Contributions
-- Please refer to the `CODE-OF-CONDUCT.md` file for more information
+- Please refer to the `CODE-OF-CONDUCT.md` file for more information [here](https://github.com/patelpratham11/CMPINF0010_VC/blob/main/CODE-OF-CONDUCT.md)
 - We encourage all to fork, push, and create pull requests.
 - Please document the enhancements or bugs you have worked on, why, what changes, and then submit that information to GitHub.
-- A repo-owner will review and pull the code 
+- A repo-owner will review and pull the code
+- We reserve the right to ban anyone for violation of our CoC, reject a pull request, or take necessary action to revert changes on our software if the CoC is violated.
+- We want to make sure this project is sustainable and usable for all, no form of hate or inequality will be tolerated. 
 
 # Misc. Information
 ## Group Members
